@@ -51,10 +51,10 @@ public class Game {
 	         }
 	    }
 	    //output and results
-	    System.out.println("Door change Results:");
-	    System.out.println("Trials: "+gameTrials+" Winning Games: "+gamesWon);
+	    System.out.println("Here are your results if you do change the door:");
+	    System.out.println("Amount of trials: "+gameTrials+" and the amount of winning Games: "+gamesWon);
 	    //probability
-		System.out.println("Winning percentage: "+(double)gamesWon/gameTrials);
+		System.out.println("Your winning percentage is: "+(double)gamesWon/gameTrials+"\n");
 		return gamesWon;
 		
 		
@@ -83,10 +83,10 @@ public class Game {
                 
         }
 		//output and results
-		System.out.println("No Door Change Results:");
-		System.out.println("Trials: "+gameTrials+" Winning Games: "+gamesWon);
+		System.out.println("Here are the results if you do not change the door:");
+		System.out.println("Amount of trials: "+gameTrials+" and the amount of winning games: "+gamesWon);
 		//probability
-		System.out.println("Winning percentage: "+(double)gamesWon/gameTrials);
+		System.out.println("Your winning percentage is: "+(double)gamesWon/gameTrials);
 		return gamesWon;
 	
 		

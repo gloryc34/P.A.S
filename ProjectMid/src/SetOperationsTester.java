@@ -1,3 +1,7 @@
+/**
+ * @author Colin Glory
+ * @version Version: 2022-12 (4.26.0)
+ */
 import java.util.ArrayList;
 import java.util.*;
 
@@ -7,19 +11,7 @@ public class SetOperationsTester {
 		// TODO Auto-generated method stub
 		
 		SetOperations test = new SetOperations();
-		/**
-		ArrayList<String> Days = new ArrayList<>();
-		
-		Days.add("Monday");
-		Days.add("Tuesday");
-		Days.add("Wednesday");
-		Days.add("Thursday");
-		Days.add("Friday");
-		Days.add("Saturday");
-		
-		List<String> Days1 = Days.subList(0, 4);
-		List<String> Days2 = Days.subList(2, 5);
-		*/
+	
 		ArrayList<String> Days1 = new ArrayList<>();
 		ArrayList<String> Days2 = new ArrayList<>();
 		

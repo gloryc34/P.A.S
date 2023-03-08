@@ -1,7 +1,7 @@
 /**
  * @author Colin Glory
  * @version Version: 2022-12 (4.26.0)
- * Runs Game.java file
+ * Runs MontyHall.java file
  */
 public class MontyHallTester {
 	

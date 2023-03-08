@@ -15,7 +15,7 @@
  */
 import java.util.Random;
 
-public class Game {
+public class MontyHall {
 	//initialize trials and random number
 	double gameTrials=10000;
 	Random number = new Random();
